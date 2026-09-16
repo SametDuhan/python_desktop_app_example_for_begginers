@@ -44,3 +44,5 @@ name=input("Please enter your name: ")
 surname=input("Please enter your surname: ")
 print(f"Hello, {name} {surname}! Welcome to the test application. We are glad to have you here.")
 
+name=""
+inputName = input("enter your namee")
