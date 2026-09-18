@@ -46,3 +46,8 @@ print(f"Hello, {name} {surname}! Welcome to the test application. We are glad to
 
 name=""
 inputName = input("enter your namee")
+
+def wiya(year):
+    return 2026-year
+
+
