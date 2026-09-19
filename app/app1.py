@@ -50,4 +50,10 @@ inputName = input("enter your namee")
 def wiya(year):
     return 2026-year
 
-
+numbers=[1,2,3,4,5,6]
+numbers_sq=[]
+for i in numbers:
+    if i %2==0:
+        numbers_sq.append()
+        
+    
